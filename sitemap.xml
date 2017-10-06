@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://Deltalive.com.ar/index.html</loc>
+    <lastmod>2017-10-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://Deltalive.com.ar/images/home-05.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Deltalive.com.ar/images/rrhh.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Deltalive.com.ar/images/home-02.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Deltalive.com.ar/images/delta_logo-01.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Deltalive.com.ar/images/comunicacion-01-05.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Deltalive.com.ar/images/office-crop-u1180.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Deltalive.com.ar/images/pri_1_jj-crop-u1400.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Deltalive.com.ar/images/public-drum_basic_article-100820-main_images-mob1_0--default--1280-crop-u1206.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://Deltalive.com.ar/images/home-04-crop-u1170.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://Deltalive.com.ar/assets/brochure-delta-live-05-16.pdf</loc>
+    <lastmod>2016-05-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
