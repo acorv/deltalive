@@ -1,40 +1,124 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://Deltalive.com.ar/index.html</loc>
-    <lastmod>2017-10-02</lastmod>
+    <loc>http://deltalive.com.ar/index.html</loc>
+    <lastmod>2017-12-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://Deltalive.com.ar/images/home-05.jpg</image:loc>
+      <image:loc>http://deltalive.com.ar/images/delta_live-solo.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Deltalive.com.ar/images/rrhh.jpg</image:loc>
+      <image:loc>http://deltalive.com.ar/images/delta_live-tex.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Deltalive.com.ar/images/home-02.jpg</image:loc>
+      <image:loc>http://deltalive.com.ar/images/home-05.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Deltalive.com.ar/images/delta_logo-01.png</image:loc>
+      <image:loc>http://deltalive.com.ar/images/home-04.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Deltalive.com.ar/images/comunicacion-01-05.png</image:loc>
+      <image:loc>http://deltalive.com.ar/images/home-02.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Deltalive.com.ar/images/office-crop-u1180.jpg</image:loc>
+      <image:loc>http://deltalive.com.ar/images/1.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Deltalive.com.ar/images/pri_1_jj-crop-u1400.jpg</image:loc>
+      <image:loc>http://deltalive.com.ar/images/2.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Deltalive.com.ar/images/public-drum_basic_article-100820-main_images-mob1_0--default--1280-crop-u1206.jpg</image:loc>
+      <image:loc>http://deltalive.com.ar/images/3.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://Deltalive.com.ar/images/home-04-crop-u1170.jpg</image:loc>
+      <image:loc>http://deltalive.com.ar/images/4.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://deltalive.com.ar/images/5.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://deltalive.com.ar/images/6.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://deltalive.com.ar/images/7.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://deltalive.com.ar/images/8.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://deltalive.com.ar/images/9.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://deltalive.com.ar/images/10.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://deltalive.com.ar/images/11.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://deltalive.com.ar/images/12.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://deltalive.com.ar/images/logo%20live.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://Deltalive.com.ar/assets/brochure-delta-live-05-16.pdf</loc>
+    <loc>http://deltalive.com.ar/play-delta.html</loc>
+    <lastmod>2017-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://deltalive.com.ar/images/delta_live-solo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://deltalive.com.ar/images/delta_live-tex.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://deltalive.com.ar/images/raspi.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://deltalive.com.ar/delta-gestion.html</loc>
+    <lastmod>2017-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://deltalive.com.ar/images/delta_live-solo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://deltalive.com.ar/images/delta_live-tex.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://deltalive.com.ar/images/pri_1_jj-crop-u14268.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://deltalive.com.ar/images/programacion%20tiempo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://deltalive.com.ar/images/kitchen_digital_sign-crop-u14373.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://deltalive.com.ar/images/multiplataforma.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://deltalive.com.ar/images/public-drum_basic_article-100820-main_images-mob1_0--default--1280-crop-u14386.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://deltalive.com.ar/images/asignar%20contenido.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://deltalive.com.ar/solutions.html</loc>
+    <lastmod>2017-12-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://deltalive.com.ar/images/delta_live-solo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://deltalive.com.ar/images/delta_live-tex.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://deltalive.com.ar/assets/brochure-delta-live-05-16.pdf</loc>
     <lastmod>2016-05-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

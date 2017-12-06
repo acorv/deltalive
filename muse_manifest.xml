@@ -1,62 +1,136 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="Deltalive.com.ar" resolutions="1x" timestamp="1506983484174">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="deltalive.com.ar" resolutions="1x" timestamp="1512565176512">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="124860511" ref="index"/>
-    <file name="iefonts_index.css" crc="4014390745" ref="index"/>
+    <file name="master_a-master.css" crc="532357713" ref="index:solutions:delta-gestion:play-delta"/>
+    <file name="index.css" crc="490788129" ref="index"/>
+    <file name="solutions.css" crc="3850242784" ref="solutions"/>
+    <file name="delta-gestion.css" crc="375094536" ref="delta-gestion"/>
+    <file name="play-delta.css" crc="4002589416" ref="play-delta"/>
   </folder>
   <folder name="assets">
     <file name="brochure-delta-live-05-16.pdf" crc="4232101123" seo="true" mt="1464632044000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="46400467" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="436936948" ref="index"/>
-    <file name="webpro.js" crc="4152390327" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:play-delta:delta-gestion:solutions"/>
+    <file name="museutils.js" crc="46400467" ref="index:play-delta:delta-gestion:solutions"/>
+    <file name="whatinput.js" crc="86476730" ref="index:play-delta:delta-gestion:solutions"/>
+    <file name="museconfig.js" crc="436936948" ref="index:play-delta:delta-gestion:solutions"/>
+    <file name="jquery.musemenu.js" crc="3936200140" ref="index:play-delta:delta-gestion:solutions"/>
+    <file name="jquery.watch.js" crc="4178585335" ref="index:play-delta:delta-gestion:solutions"/>
+    <file name="webpro.js" crc="4152390327" ref="index:delta-gestion:solutions"/>
     <file name="musewpslideshow.js" crc="380562115" ref="index"/>
     <file name="jquery.museoverlay.js" crc="3986278607" ref="index"/>
     <file name="touchswipe.js" crc="4228958816" ref="index"/>
-    <file name="jquery.musemenu.js" crc="3936200140" ref="index"/>
-    <file name="jquery.watch.js" crc="4178585335" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="532123423" ref="index"/>
-    <file name="jquery.scrolleffects.js" crc="410690402" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index"/>
-    <file name="require.js" crc="85721165" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="410690402" ref="index:play-delta:solutions"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:play-delta:delta-gestion:solutions"/>
+    <file name="require.js" crc="85721165" ref="index:play-delta:delta-gestion:solutions"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="532123423" ref="play-delta:delta-gestion:solutions"/>
+    <file name="musewpdisclosure.js" crc="204784597" ref="delta-gestion:solutions"/>
   </folder>
   <folder name="images">
+    <file name="delta_live-solo.png" crc="271195823" seo="true" ref="index:play-delta:delta-gestion:solutions">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="delta-gestion" alt=""/>
+      <caption webpage="delta-gestion" alt=""/>
+      <caption webpage="play-delta" alt=""/>
+      <caption webpage="play-delta" alt=""/>
+      <caption webpage="solutions" alt=""/>
+      <caption webpage="solutions" alt=""/>
+    </file>
+    <file name="delta_live-tex.png" crc="43396126" seo="true" ref="index:play-delta:delta-gestion:solutions">
+      <caption webpage="index" alt=""/>
+      <caption webpage="delta-gestion" alt=""/>
+      <caption webpage="play-delta" alt=""/>
+      <caption webpage="solutions" alt=""/>
+    </file>
     <file name="home-05.jpg" crc="248119038" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="rrhh.jpg" crc="42077884" seo="true" ref="index">
+    <file name="home-04.jpg" crc="4152112945" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="home-02.jpg" crc="335709209" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="delta_logo-01.png" crc="4185158806" seo="true" ref="index">
+    <file name="u4506-4.png" crc="4144188796" ref="index"/>
+    <file name="1.png" crc="420810246" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="comunicacion-01-05.png" crc="63536178" seo="true" ref="index">
+    <file name="2.png" crc="268014429" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="office-crop-u1180.jpg" crc="4280386990" seo="true" ref="index">
+    <file name="3.png" crc="486724115" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="u411-4.png" crc="263664478" ref="index"/>
-    <file name="pri_1_jj-crop-u1400.jpg" crc="471134502" seo="true" ref="index">
+    <file name="4.png" crc="3769894747" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="comparacion-06.png" crc="206656029" ref="index">
+    <file name="5.png" crc="189687825" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="public-drum_basic_article-100820-main_images-mob1_0--default--1280-crop-u1206.jpg" crc="4201820288" seo="true" ref="index">
+    <file name="6.png" crc="3968683083" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="home-04-crop-u1170.jpg" crc="158674400" seo="true" ref="index">
+    <file name="7.png" crc="3793861374" seo="true" ref="index">
       <caption webpage="index" alt=""/>
+    </file>
+    <file name="8.png" crc="496836368" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="9.png" crc="3872501933" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="10.png" crc="4114286223" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="11.png" crc="3811534589" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="12.png" crc="340811955" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo live.png" crc="4021130894" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagen rrhh.jpg" crc="467190428" ref="play-delta">
+      <caption webpage="play-delta" alt=""/>
+    </file>
+    <file name="raspi.png" crc="3825498600" seo="true" ref="play-delta">
+      <caption webpage="play-delta" alt=""/>
+    </file>
+    <file name="home-01.jpg" crc="4029616174" ref="delta-gestion">
+      <caption webpage="delta-gestion" alt=""/>
+    </file>
+    <file name="pri_1_jj-crop-u14268.jpg" crc="128899850" seo="true" ref="delta-gestion">
+      <caption webpage="delta-gestion" alt=""/>
+    </file>
+    <file name="programacion tiempo.png" crc="136884827" seo="true" ref="delta-gestion">
+      <caption webpage="delta-gestion" alt=""/>
+    </file>
+    <file name="kitchen_digital_sign-crop-u14373.jpg" crc="3787480622" seo="true" ref="delta-gestion">
+      <caption webpage="delta-gestion" alt=""/>
+    </file>
+    <file name="multiplataforma.png" crc="4067712171" seo="true" ref="delta-gestion">
+      <caption webpage="delta-gestion" alt=""/>
+    </file>
+    <file name="public-drum_basic_article-100820-main_images-mob1_0--default--1280-crop-u14386.jpg" crc="288886387" seo="true" ref="delta-gestion">
+      <caption webpage="delta-gestion" alt=""/>
+    </file>
+    <file name="asignar contenido.png" crc="3778341730" seo="true" ref="delta-gestion">
+      <caption webpage="delta-gestion" alt=""/>
+    </file>
+    <file name="solutions-3.jpg" crc="531972785" ref="solutions">
+      <caption webpage="solutions" alt=""/>
+    </file>
+    <file name="solutions.jpg" crc="423175725" ref="solutions">
+      <caption webpage="solutions" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4161467630" seo="true" mt="1506982986652" redirect="true"/>
+  <file name="index.html" crc="4014729101" seo="true" mt="1512564845266" redirect="true"/>
+  <file name="play-delta.html" crc="3867897438" seo="true" mt="1512564845266" redirect="true"/>
+  <file name="delta-gestion.html" crc="4208064929" seo="true" mt="1512564845266" redirect="true"/>
+  <file name="solutions.html" crc="4273898571" seo="true" mt="1512564845266" redirect="true"/>
 </manifest>
